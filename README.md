@@ -1,7 +1,7 @@
 # Hola! Soc en Joan Osuna
 
 ## Presentació
-Soc un jove de **18 anys**, graduat en **Sistemes Microinformàtics i Xarxes (SMX)** a l'**Escola Pia Santa Anna**. 
+Soc un jove de **17 anys**, graduat en **Sistemes Microinformàtics i Xarxes (SMX)** a l'**Escola Pia Santa Anna**. 
 Compto amb experiència pràctica en el sector tecnològic i actualment combino el meu creixement professional amb el treball en el sector de la restauració i atenció al client.
 
 ## Formació Acadèmica
