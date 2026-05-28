@@ -1,30 +1,35 @@
-# 👋 Hola! Soc en Joan Osuna
+# Hola! Soc en Joan Osuna
 
-## 🙋‍♂️ Presentació
-Soc un jove de **17 anys**, estudiant de **Sistemes Microinformàtics i Xarxes (SMX)** de segon any a **l'Escola Pia Santa Anna**.  
-Actualment estic realitzant les meves **pràctiques a l'Ajuntament d'Argentona**, on estic adquirint experiència en l'àmbit informàtic i de les noves tecnologies.  
+## Presentació
+Soc un jove de **18 anys**, graduat en **Sistemes Microinformàtics i Xarxes (SMX)** a l'**Escola Pia Santa Anna**. 
+Compto amb experiència pràctica en el sector tecnològic i actualment combino el meu creixement professional amb el treball en el sector de la restauració i atenció al client.
 
-## 📚 Formació Acadèmica
-- 🎓 Cicle Formatiu de Grau Mitjà en **Sistemes Microinformàtics i Xarxes (SMX)**  
+## Formació Acadèmica
+-  **Cicle Formatiu de Grau Mitjà en Sistemes Microinformàtics i Xarxes (SMX)**
   *Escola Pia Santa Anna (2023 - 2025)*
 
-## 💻 Coneixements i Competències
+## Coneixements i competències
 - Instal·lació i manteniment de sistemes informàtics.
 - Administració bàsica de xarxes locals i dispositius.
 - Coneixements de seguretat i protocols de xarxa.
 - Programació bàsica en **Python** i **Java**.
-- Ús d’eines d’ofimàtica i col·laboració online.
+- Ús d'eines d'ofimàtica i col·laboració online.
+- **Habilitats interpersonals:** Treball en equip, adaptabilitat, gestió del temps i atenció al client en entorns dinàmics.
 
-## 🛠️ Experiència
-- **Pràctiques a l’Ajuntament d’Argentona** (2025)  
-  Tasques de suport en l’àmbit de sistemes, xarxes i atenció tècnica.
+## Experiència
+  - **Cambrer / Personal d'Atenció al Client** a [**Gas Quiet Club**](https://gasdivision.com/gas-quiet-club-restaurante-en-la-playa-en-el-maresme/) *(Port Balís, Sant Andreu de Llavaneres)* - **Actualitat**
+  - Atenció al client, gestió de comandes i treball en equip en un entorn d'alt ritme.
+  - Desenvolupament de competències comunicatives i resolució de problemes en viu.
 
-## 🌐 Idiomes
-- Català: Natiu  
-- Castellà: Natiu  
-- Anglès: Intermedi  
+-  **Pràctiques d'Informàtica** a l'**Ajuntament d'Argentona** *(2025)*
+  - Tasques de suport en l'àmbit de sistemes, xarxes i atenció tècnica a l'usuari (Helpdesk).
 
-## 📫 Contacte
-- ✉️ Correu: alu.joan.osuna@mataro.epiaedu.cat  
+## Idiomes
+- **Català:** Natiu
+- **Castellà:** Natiu
+- **Anglès:** Intermedi
+
+## Contacte
+- Correu: joanosuariza@gmail.com
   
 
